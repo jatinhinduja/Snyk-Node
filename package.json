@@ -22,7 +22,7 @@
     "ejs": "2.5.3",
     "errorhandler": "1.4.3",
     "express": "4.15.5",
-    "express-jwt": "3.4.0",
+    "express-jwt": "6.1.1",
     "express-session": "1.14.0",
     "jsonwebtoken": "7.1.9",
     "method-override": "2.3.5",
@@ -32,7 +32,7 @@
     "morgan": "1.9.1",
     "passport": "0.3.2",
     "passport-local": "1.0.0",
-    "request": "2.69.0",
+    "request": "2.80.0",
     "slug": "0.9.1",
     "underscore": "1.8.3"
   },
